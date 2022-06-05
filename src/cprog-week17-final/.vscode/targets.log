@@ -1,0 +1,388 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.3
+# Built for Windows32
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+ 
+
+# Make data base, printed on Sun Jun 05 09:10:32 2022
+
+# Variables
+
+# environment
+SYSTEMDRIVE = C:
+# environment
+LC_ALL = C
+# environment
+USERPROFILE = C:\Users\jyang
+# environment
+LOCALAPPDATA = C:\Users\jyang\AppData\Local
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-ab6c2d59-7de6-474c-9b60-87e303f6e01d-sock
+# environment
+WSLENV = WT_SESSION::WT_PROFILE_ID
+# environment
+VSCODE_CWD = D:\Workspace\github_classroom\cprog-week17-final
+# environment
+CHOCOLATEYINSTALL = C:\ProgramData\chocolatey 
+
+# environment
+SYSTEMROOT = C:\Windows
+# makefile (from 'Makefile', line 3)
+dir_check = tools
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+PSMODULEPATH = C:\CloudDrive\OneDrive - �n�O��ޤj��\���\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
+# automatic
+@D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_16336_PJALLYWZDLEFFYRJ
+# environment
+ONEDRIVECOMMERCIAL = C:\CloudDrive\OneDrive - �n�O��ޤj��
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# automatic
+%D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
+# automatic
+^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
+# environment
+VSCODE_LOG_STACK = false
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\jyang\AppData\Roaming\Code\CachedData\c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5
+# environment
+LANG = C
+# default
+.LOADED := 
+# environment
+TMP = C:\Users\jyang\AppData\Local\Temp
+# default
+.INCLUDE_DIRS = .
+# environment
+PROCESSOR_ARCHITEW6432 = AMD64
+# makefile
+MAKEFLAGS = pqrR
+# environment
+ONEDRIVE = C:\CloudDrive\OneDrive - �n�O��ޤj��
+# makefile
+CURDIR := d:/Workspace/github_classroom/cprog-week17-final
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# automatic
+*D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
+# environment
+PROGRAMFILES = C:\Program Files (x86)
+# environment
+MFLAGS = -pqrR
+# default
+.SHELLFLAGS := -c
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# automatic
++D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+VSCODE_PID = 16336
+# automatic
+?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
+# environment
+WT_PROFILE_ID = {61c54bbd-c2c6-5271-96e7-009a87ff44bf}
+# automatic
+*F = $(notdir $*)
+# automatic
+<D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"zh-tw","availableLanguages":{},"_languagePackSupport":true}
+# default
+MAKE_HOST := Windows32
+# environment
+PROGRAMDATA = C:\ProgramData
+# default
+SHELL := sh.exe
+# environment
+HOMEPATH = \Users\jyang
+# default
+MAKECMDGOALS := all
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+COMSPEC = C:\Windows\system32\cmd.exe
+# environment
+WEBSTORM =  
+C:\Program Files\JetBrains\WebStorm 2021.3.1\bin;
+# environment
+WINDIR = C:\Windows
+# environment
+MAKELEVEL := 0
+# makefile (from 'Makefile', line 1)
+compile = g++
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\tools\flutter\bin;C:\Program Files\PuTTY\;C:\TDM-GCC-64\bin;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Users\jyang\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\jyang\AppData\Local\Programs\Python\Python310\;C:\Users\jyang\AppData\Local\Microsoft\WindowsApps;C:\Users\jyang\AppData\Roaming\npm;C:\Program Files\JetBrains\WebStorm 2021.3.1\bin;C:\tools\dart-sdk\bin;C:\Users\jyang\AppData\Roaming\Pub\Cache\bin;C:\Users\jyang\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\jyang\AppData\Local\GitHubDesktop\bin
+# environment
+COMPUTERNAME = YOUNG-HOME
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+# environment
+PROMPT = $P$G
+# environment
+CHOCOLATEYLASTPATHUPDATE = 132966429574711085
+# environment
+WT_SESSION = 22b50e13-c13a-434d-93eb-befdbbfc6bdf
+# environment
+LOGONSERVER = \\YOUNG-HOME
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+USERNAME = jyang
+# environment
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# automatic
+?F = $(notdir $?)
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+# automatic
++F = $(notdir $+)
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERDOMAIN = Young-Home
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+OS = Windows_NT
+# makefile
+.DEFAULT_GOAL := all
+# makefile (from 'Makefile', line 2)
+dir_hw = src
+# default
+MAKE_VERSION := 4.3
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# environment
+USERDOMAIN_ROAMINGPROFILE = Young-Home
+# environment
+NUMBER_OF_PROCESSORS = 6
+# environment
+PUBLIC = C:\Users\Public
+# environment
+APPDATA = C:\Users\jyang\AppData\Roaming
+# environment
+HOMEDRIVE = C:
+# environment
+PROCESSOR_ARCHITECTURE = x86
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+TEMP = C:\Users\jyang\AppData\Local\Temp
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\2fff87ccee7225ea70e95fec307c0f8a-1.67.2-main-sock
+# default 
+
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+VSCODE_CLI = 1
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync load
+# environment
+PROCESSOR_REVISION = 9e0a
+# environment
+CHOCOLATEYTOOLSLOCATION = C:\tools
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+# variable set hash-table stats:
+# Load=104/1024=10%, Rehash=0, Collisions=11/131=8%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (key d:/Workspace/github_classroom/cprog-week17-final, mtime 1654391413): 11 files, no impossibilities.
+
+# 11 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+prob04:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 20):
+	$(compile) -o ./$(dir_hw)/$@/main ./$(dir_hw)/$@/main.cpp
+	python ./$(dir_hw)/$@/.check/checks.py
+
+prob05:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 24):
+	$(compile) -o ./$(dir_hw)/$@/main ./$(dir_hw)/$@/main.cpp
+	python ./$(dir_hw)/$@/.check/checks.py
+
+prob09:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 40):
+	$(compile) -o ./$(dir_hw)/$@/main ./$(dir_hw)/$@/main.cpp
+	python ./$(dir_hw)/$@/.check/checks.py
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-28 12:40:48
+#  File has been updated.
+#  Successfully updated.
+
+prob11:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', l 
+ine 48):
+	$(compile) -o ./$(dir_hw)/$@/main ./$(dir_hw)/$@/main.cpp
+	python ./$(dir_hw)/$@/.check/checks.py
+
+prob03:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 16):
+	$(compile) -o ./$(dir_hw)/$@/main ./$(dir_hw)/$@/main.cpp
+	python ./$(dir_hw)/$@/.check/checks.py
+
+prob06:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 28):
+	$(compile) -o ./$(dir_hw)/$@/main ./$(dir_hw)/$@/main.cpp
+	python ./$(dir_hw)/$@/.check/checks.py
+
+prob08:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 36):
+	$(compile) -o ./$(dir_hw)/$@/main ./$(dir_hw)/$@/main.cpp
+	python ./$(dir_hw)/$@/.check/checks.py
+
+prob12:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 52):
+	$(compile) -o ./$(dir_hw)/$@/main ./$(dir_hw)/$@/main.cpp
+	python ./$(dir_hw)/$@/.check/checks.py
+
+prob01:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 8):
+	$(compile) -o ./$(dir_hw)/$@/main ./$(dir_hw)/$@/main.cpp
+	python ./$(dir_hw)/$@/.check/checks.py
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+all:
+#  Command line target.
+#  Implicit rule search has not been done.
+#  Last modified -4
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 6):
+	
+
+prob07:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 32):
+	$(compile) -o ./$(dir_hw)/$@/main ./$(dir_hw)/$@/main.cpp
+	python ./$(dir_hw)/$@/.check/checks.py
+
+prob13:
+#  Imp 
+licit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 56):
+	$(compile) -o ./$(dir_hw)/$@/main ./$(dir_hw)/$@/main.cpp
+	python ./$(dir_hw)/$@/.check/checks.py
+
+prob10:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 44):
+	$(compile) -o ./$(dir_hw)/$@/main ./$(dir_hw)/$@/main.cpp
+	python ./$(dir_hw)/$@/.check/checks.py
+
+prob02:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 12):
+	$(compile) -o ./$(dir_hw)/$@/main ./$(dir_hw)/$@/main.cpp
+	python ./$(dir_hw)/$@/.check/checks.py
+
+# files hash-table stats:
+# Load=17/1024=2%, Rehash=0, Collisions=1/28=4%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 27 / storage = 205 B / avg = 7 B
+# current buf: size = 8174 B / used = 205 B / count = 27 / avg = 7 B
+
+# strcache performance: lookups = 46 / hit rate = 41%
+# hash-table stats:
+# Load=27/8192=0%, Rehash=0, Collisions=0/46=0%
+# Finished Make data base on Sun Jun 05 09:10:32 2022
+
+ 

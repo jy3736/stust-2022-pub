@@ -1,0 +1,8 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "*.md": "markdown",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}

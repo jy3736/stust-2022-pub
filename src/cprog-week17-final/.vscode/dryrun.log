@@ -1,0 +1,5 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'd:/Workspace/github_classroom/cprog-week17-final'
+make: 'all' is up to date.
+make: Leaving directory 'd:/Workspace/github_classroom/cprog-week17-final'
+ 
